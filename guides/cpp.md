@@ -10,7 +10,7 @@ void example() {}
 ## Variable names
 
 ```cpp
-int lower_snake_case
+int lower_snake_case;
 ```
 
 ## Function names
