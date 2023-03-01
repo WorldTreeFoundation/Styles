@@ -1,5 +1,11 @@
 # Style guide for C++
 
+## Folder and files names
+
+    folder_name:
+       - file_name_1
+       - file_name_2
+
 ## Docstrings
 
 ```cpp
